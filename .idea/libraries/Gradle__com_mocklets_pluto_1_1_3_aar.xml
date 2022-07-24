@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mocklets:pluto:1.1.3@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb1f3e04b6593ebc1f3bfd36b68192d3/transformed/jetified-pluto-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eb1f3e04b6593ebc1f3bfd36b68192d3/transformed/jetified-pluto-1.1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eb1f3e04b6593ebc1f3bfd36b68192d3/transformed/jetified-pluto-1.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mocklets/pluto/1.1.3/e52ada8069c9192b20ebdc8c46e3a2bd56a223f5/pluto-1.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mocklets/pluto/1.1.3/4266b33b16639efdbeae4586b7ff6c9678f02fa4/pluto-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

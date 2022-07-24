@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="images">Images</string>
+    <string name="setting">Settings</string>
+    <string name="program_language">Application language</string>
+    <string name="theme">Theme of the application</string>
+    <string name="uzb">UZB</string>
+    <string name="eng">ENG</string>
+    <string name="ru">RU</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+</resources>

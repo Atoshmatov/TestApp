@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="images">Картинки</string>
+    <string name="setting">Настройки</string>
+    <string name="program_language">Язык приложения</string>
+    <string name="theme">Тема приложения</string>
+    <string name="uzb">УЗБ</string>
+    <string name="eng">ENG</string>
+    <string name="ru">RU</string>
+    <string name="light">Легкий</string>
+    <string name="dark">Темный</string>
+</resources>
